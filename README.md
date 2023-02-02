@@ -1,6 +1,6 @@
 ## Summary
 
-A Trello board clone made with React + Redux
+Um Clone do trello com react e redux
 
 ![Trello Board](./Screenshot_1.png)
 
